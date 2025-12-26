@@ -1,0 +1,29 @@
+google-generativeai
+python-dotenv
+streamlit
+```
+
+## Features of the Streamlit UI:
+
+✅ **5 Different Modes:**
+1. 💬 Chat with Agent - Interactive conversation
+2. ❓ Generate Questions - Create challenging questions
+3. 🔍 Ask a Question - Get detailed answers
+4. 📝 Review Code - Code analysis and optimization
+5. 🧩 Solve a Problem - Problem-solving assistance
+
+✅ **UI Features:**
+- Beautiful, modern interface
+- Sidebar navigation
+- Chat history tracking
+- Syntax highlighting for code
+- Responsive design
+- Clear history option
+- Loading indicators
+- Error handling with user-friendly messages
+
+## Step 6: Access the App
+
+Once you run the command, Streamlit will automatically open your browser at:
+```
+http://localhost:8501
